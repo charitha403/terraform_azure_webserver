@@ -1,4 +1,4 @@
-#comment2
+#comments
 provider "azurerm" {
   features {}
   client_certificate_path = "mycert.pfx"
